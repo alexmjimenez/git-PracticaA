@@ -29,6 +29,10 @@ Thumbs.db
 build/
 target/
 bin/
+<<<<<<< HEAD
+=======
+sandbox/
+>>>>>>> 1006983 (add web greeting controller issue Initital configuration #1)
 dependency-reduced-pom.xml
 
 # Eclipse Project Files
