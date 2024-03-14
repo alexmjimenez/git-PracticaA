@@ -1,11 +1,13 @@
 html,body {
 height:100%;
-background:white;
+background:#E3FEFF;
+color: #015B5E;
 }
 header {
 display:block;
-background:#d7e0e9;
+background:#21E1E7;
 padding:10px 0px;
+color: #F5FEFF;
 }
 section {
 width: 79%;
@@ -13,7 +15,7 @@ float: left;
 overflow: auto;
 padding-bottom: 60px;
 padding-top:30px;
-color: black;
+color: #015B5E;
 }
 footer {
 position: relative;
@@ -21,7 +23,7 @@ margin-top: -50px;
 height: 40px;
 padding:5px 0px;
 clear: both;
-background: #d7e0e9;
+background: #21E1E7;
 text-align: center;
-color: black;
+color: #F5FEFF;
 }
