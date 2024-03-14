@@ -1,10 +1,10 @@
 html,body {
 height:100%;
-background:white;
+background:rgb(50, 205, 146);
 }
 header {
 display:block;
-background:#d7e0e9;
+background:#ffd17c;
 padding:10px 0px;
 }
 section {
